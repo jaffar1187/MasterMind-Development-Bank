@@ -1,0 +1,19 @@
+p
+{
+	color:orange;
+	font-size:45px;
+	font-family:times new roman;
+	font-weight:bold;
+	top:400px;
+	left:400px;
+	text-align:center;
+	
+}
+body
+{
+	background: url(banklogos.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	
+}
